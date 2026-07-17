@@ -82,6 +82,10 @@
                          "noCertificates":  "등록된 자격증이 없습니다",
                          "issuer":  "발급 기관",
                          "issued":  "발급일",
+                         "editCertificate":  "자격증 수정",
+                         "formNamePlaceholder":  "예: AWS Solutions Architect",
+                         "formIssuerPlaceholder":  "예: Amazon Web Services",
+                         "credentialUrl":  "자격증 URL",
                          "expiry":  "만료일"
                      },
     "future":  {

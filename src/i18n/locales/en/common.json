@@ -82,6 +82,10 @@
                          "noCertificates":  "No certificates yet",
                          "issuer":  "Issuer",
                          "issued":  "Issued",
+                         "editCertificate":  "Edit Certificate",
+                         "formNamePlaceholder":  "e.g. AWS Solutions Architect",
+                         "formIssuerPlaceholder":  "e.g. Amazon Web Services",
+                         "credentialUrl":  "Credential URL",
                          "expiry":  "Expiry"
                      },
     "future":  {
